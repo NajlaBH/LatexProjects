@@ -1,30 +1,31 @@
-#LatexProjects 1.0.0 
+LatexProjects 1.0.0
+-------------------
 Templates and Projects coded with Latex.
 
-##1- Projects
+1- Projects
 ====================
-#####- TexStackPrj : 
+- TexStackPrj : 
 
 ** Scripts used for <https://tex.stackexchange.com/questions>
 
-#####- CvsTemplatePrj :
+- CvsTemplatePrj :
 
 ** Template for Curriculum Vitae in Latex format.
 
 
-##2- Content
+2- Content
 ====================
 - Graphs
 - Tex files
 - PDFs
 
 
-###Authors & Maintainer
+Authors & Maintainer
 =======================
 BEN HASSINE Najla, bhndevtools@gmail.com .
 
 
-###License
+License
 ========
 MIT License.
 
