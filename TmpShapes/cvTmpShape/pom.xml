@@ -23,7 +23,7 @@
     </repositories>
     <dependencies>
         <!-- itext7 package __ begin __ -->
-        <dependency>
+         <dependency>
             <groupId>com.itextpdf</groupId>
             <artifactId>kernel</artifactId>
             <version>7.0.2</version>
@@ -81,6 +81,12 @@
             <artifactId>maven-resources-plugin</artifactId>
             <version>2.7</version>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <type>jar</type>
+        </dependency>
         <!-- Maven plugin deploy __ end __ --> 
         
         <!-- Maven report dependecies deploy __ begin __ --> 
@@ -99,7 +105,12 @@
             <artifactId>commons-net</artifactId>
             <version>3.6</version>
         </dependency>
-        <!-- Maven report dependecies deploy __ end __ --> 
+        <!-- Maven report dependecies deploy __ end __ -->
+        <dependency>
+            <groupId>org.junit</groupId>
+            <artifactId>junit5-engine</artifactId>
+            <version>5.0.0-ALPHA</version>
+        </dependency>
     </dependencies>
     
     <!-- ___ BUILD __ tags BEGIN -->
